@@ -1,0 +1,24 @@
+Project Title:
+Sales Forecasting & Interactive Analytics Dashboard for a Supplement Brand
+
+Company:
+PulseFuel Nutrition
+
+Description:
+This project simulates a pre-workout supplement business inspired by real-world brands. We generated synthetic historical sales data, cleaned and analyzed it in Python, created KPI summaries and forecasts, and built a Power BI dashboard to visualize business performance.
+
+Main KPIs:
+- Revenue
+- Profit
+- Units Sold
+- Total Orders
+- Average Order Value
+- Profit Margin
+
+Business Questions:
+- Which products generate the most revenue?
+- Which products generate the most profit?
+- Which channel performs best?
+- Which region performs best?
+- Are there seasonal patterns in demand?
+- What does the next 3 months of sales look like?
