@@ -74,7 +74,7 @@ The dashboard separates historical performance from projected data to simulate b
 ---
 
 ## 🤝 Collaboration  
-Worked with teammate **Adarsh Nambiar** to divide and build the system.  
+Worked with teammate **Anurag Veluri** to divide and build the system.  
 Focused on data transformation, database structuring, and pipeline automation while collaborating on dashboard development and deployment setup.
 
 ---
