@@ -17,7 +17,7 @@ This project builds a complete data pipeline and analytics system to turn raw sa
 
 ## 🏗️ Architecture
 
-![Architecture](screenshots/architecture.png)
+![Architecture](dashboard/architecture.png)
 
 **Flow:**  
 Raw Data → ETL Pipeline (Python) → PostgreSQL → Power BI Dashboard  
@@ -27,10 +27,10 @@ Raw Data → ETL Pipeline (Python) → PostgreSQL → Power BI Dashboard
 ## 📸 Dashboard Preview
 
 ### Revenue & Profit Analysis
-![Dashboard 1](screenshots/dashboard1.png)
+![Dashboard 1](dashboard/Sales_Performance_Dashboard.png)
 
 ### Regional Performance
-![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 2](dashboard/Product_Performance.png)
 
 ---
 
